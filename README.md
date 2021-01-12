@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... Data structure and algorithms
 - 🌱 I’m currently learning ... Data structure and algorithms
-//- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ... Research Paper 
 - 🤔 I’m looking for help with ... OpenCv,DeepLearning
 - 💬 Ask me about ... `Java`, `C++`, `Python`, `tensorflow`
 - 😄 Pronouns: ... She/her
