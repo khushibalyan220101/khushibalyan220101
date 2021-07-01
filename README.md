@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Data structure and algorithms
-- 🌱 I’m currently learning ... Data structure and algorithms
-- 👯 I’m looking to collaborate on ... Research Paper 
-- 🤔 I’m looking for help with ... OpenCv,DeepLearning
-- 💬 Ask me about ... `Java`, `C++`, `Python`, `tensorflow`
+- 🔭 I’m currently working on ... SQL and Advanced Excel
+- 🌱 I’m currently learning ... SQL 
+- 👯 I’m looking to collaborate on ... Data Analysis Projects 
+- 💬 Ask me about ... `Java`, `Python`, `Numpy`, `Scikit-learn`, `Pandas`
 - 😄 Pronouns: ... She/her
 - ⚡ Fun fact: ... There are more stars in the universe than grains of sand on all the beaches on Earth.
 
@@ -18,7 +17,5 @@
 
 - Contributed in [Winter of Code 2020](https://winterofcode.com/)
 - Contributor at [Hacktoberfest](https://hacktoberfest.digitalocean.com/) presented by DigitalOcean
-- Participant at [Script Winter of Code](https://swoc.tech/) by Script Foundation
-
 </div>
 -->
