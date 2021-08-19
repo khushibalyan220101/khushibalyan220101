@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... SQL and Advanced Excel
 - 🌱 I’m currently learning ... SQL 
 - 👯 I’m looking to collaborate on ... Data Analytics Projects 
-- 💬 Ask me about ... `Java`, `Python`, `Numpy`, `Scikit-learn`, `Pandas`
+- 💬 Ask me about ... `Machine Learning`, `Python`, `Numpy`, `Scikit-learn`, `Pandas`
 - 😄 Pronouns: ... She/her
 - ⚡ Fun fact: ... There are more stars in the universe than grains of sand on all the beaches on Earth.
 
